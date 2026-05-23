@@ -169,6 +169,7 @@ dependencies = [
     { name = "google-generativeai" },
     { name = "pypdf2" },
     { name = "python-dotenv" },
+    { name = "requests" },
     { name = "streamlit" },
 ]
 
@@ -180,6 +181,7 @@ requires-dist = [
     { name = "google-generativeai", specifier = ">=0.8.6" },
     { name = "pypdf2", specifier = ">=3.0.1" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
+    { name = "requests", specifier = ">=2.33.1" },
     { name = "streamlit", specifier = ">=1.57.0" },
 ]
 
